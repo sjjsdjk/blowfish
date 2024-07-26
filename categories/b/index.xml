@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B on &lt;span style=&#39;font-weight:600;font-size:18px;&#39;&gt;哈喽沃德先生&lt;/span&gt;</title>
+    <link>http://localhost:1313/categories/b/</link>
+    <description>Recent content in B on &lt;span style=&#39;font-weight:600;font-size:18px;&#39;&gt;哈喽沃德先生&lt;/span&gt;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 哈喽沃德先生</copyright>
+    <lastBuildDate>Mon, 01 Jul 2024 08:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/b/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hadoop</title>
+      <link>http://localhost:1313/posts/hadoop/</link>
+      <pubDate>Mon, 01 Jul 2024 08:00:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/hadoop/</guid>
+      <description>Shell # Shell 编程概述 # Shell 本身并不是内核的一部分，它只是站在内核的基础上编写的一个应用程序，它和 QQ、迅雷、Firefox 等其它软件没有什么区别。然而 Shell 也有着它的特殊性，就是开机立马启动，并呈现在用户面前；用户通过 Shell 来使用 Linux，不启动 Shell 的话，用户就没办法使用 Linux。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/hadoop/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>文b on 哈喽沃德先生</title>
+    <link>http://localhost:1313/categories/%E6%96%87b/</link>
+    <description>Recent content in 文b on 哈喽沃德先生</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 哈喽沃德先生</copyright>
+    <atom:link href="http://localhost:1313/categories/%E6%96%87b/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hadoop</title>
+      <link>http://localhost:1313/posts/hadoop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/hadoop/</guid>
+      <description>aa阿萨德收到阿速度加快爱回收等级客户按实际肯定会金卡适当即可好几款.。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/hadoop/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
